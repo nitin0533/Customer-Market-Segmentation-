@@ -1,5 +1,5 @@
 # Customer-Market-Segmentation-
-##Resume points
+## Resume points
 **Customer Market Segmentation using Unsupervised Machine learning algorithm**
 1. Performed data cleaning and Exploratory Data analysis by visualising the dataset using heatmap & distplot functions
 2. Normalised the dataset, and utilised the Elbow method with KMeans algorithm for optimal clustering of the dataset
