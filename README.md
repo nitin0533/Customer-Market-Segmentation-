@@ -16,6 +16,7 @@ Snips form the code for quick reference :-
 ![image](https://user-images.githubusercontent.com/71177034/129442433-693df34b-274b-4c6a-887d-ac7a8b22c05b.png)
 ![image](https://user-images.githubusercontent.com/71177034/129442443-5956b48f-10f6-4cbd-823a-66a3d044c1b7.png)
 ![image](https://user-images.githubusercontent.com/71177034/129442456-96f4dcdb-60aa-44ef-80df-49e28d590dca.png)
+Results from Elbow method, KMenas clustering and PCA data visualisation
 ![image](https://user-images.githubusercontent.com/71177034/129442463-97a459e7-722b-4b0d-bd67-359592e93e2b.png)
 ![image](https://user-images.githubusercontent.com/71177034/129442478-1dfa6b95-06aa-4741-8dc2-8ef35b5f5c2f.png)
 
