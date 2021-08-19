@@ -1,9 +1,17 @@
 # Customer-Market-Segmentation-
 ## Resume points
+
 **Customer Market Segmentation using Unsupervised Machine learning algorithm**
+
+**Customer Market Segmentation using Unsupervised Machine Learning**
 1. Performed data cleaning and Exploratory Data analysis by visualising the dataset using heatmap & distplot functions
 2. Normalised the dataset, and utilised the Elbow method with KMeans algorithm for optimal clustering of the dataset
-3. Performed dimensionality reduction and Visualisation of the clustered dataset using Principal Component Analysis
+3. Performed dimensionality reduction using Principal Component Analysis and Visualisation of the clustered dataset
+
+**Customer Market Segmentation using Unsupervised Machine Learning**
+1. Performed Exploratory Data Analysis and implemented the Elbow method with KMeans algorithm for optimal clustering of the dataset
+2. Performed dimensionality reduction using Principal Component Analysis (PCA) and Visualisation of the clustered dataset
+
 
 Referring to the python code:-
 Null values and dup;icate values are handled. The data set is visualised using heatmap and distplot function for exploratory data analysis.
