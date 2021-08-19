@@ -16,7 +16,13 @@ Snips form the code for quick reference :-
 ![image](https://user-images.githubusercontent.com/71177034/129442433-693df34b-274b-4c6a-887d-ac7a8b22c05b.png)
 ![image](https://user-images.githubusercontent.com/71177034/129442443-5956b48f-10f6-4cbd-823a-66a3d044c1b7.png)
 ![image](https://user-images.githubusercontent.com/71177034/129442456-96f4dcdb-60aa-44ef-80df-49e28d590dca.png)
-Results from Elbow method, KMenas clustering and PCA data visualisation
-![image](https://user-images.githubusercontent.com/71177034/129442463-97a459e7-722b-4b0d-bd67-359592e93e2b.png)
+Results from Elbow method, KMeans clustering and PCA data visualisation
+Implementation and results from Elbow method. Gives optimal number of clusters
+![image](https://user-images.githubusercontent.com/71177034/130003887-a2e61a61-b345-4243-b93d-69e68d663575.png)
+
+![image](https://user-images.githubusercontent.com/71177034/130002859-71cd76d0-485c-4449-8654-f3fa7140aa2a.png)
+Implementation of PCA:-
+![image](https://user-images.githubusercontent.com/71177034/130003992-b747a03c-d1df-42aa-a641-c60f3c3c606c.png)
+Data visualisation of the Reduced dimensions
 ![image](https://user-images.githubusercontent.com/71177034/129442478-1dfa6b95-06aa-4741-8dc2-8ef35b5f5c2f.png)
 
